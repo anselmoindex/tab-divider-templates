@@ -1,0 +1,13 @@
+{
+  "name": "tab-divider-templates-generator",
+  "private": true,
+  "type": "module",
+  "description": "Regenerates the printable index tab divider templates in ../templates. Output goes to ./out.",
+  "scripts": {
+    "build": "node generate-templates.mjs && node generate-legal-templates.mjs && node generate-hanger-templates.mjs && node generate-exhibit-templates.mjs && node generate-estate-templates.mjs"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "qrcode": "^1.5.4"
+  }
+}
