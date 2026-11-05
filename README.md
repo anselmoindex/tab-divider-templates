@@ -87,6 +87,8 @@ The cut lists and geometry are constants at the top of each script.
 
 Home-printed tabs have no reinforcement on the tab, which is where tabs tear, and alignment drifts from sheet to sheet on a desktop printer. That is fine for one or two binders. For identical sets in quantity, Tabzoola prints them with your titles, with clear or colored Mylar on every tab, collated and punched, from a 25-set minimum, priced instantly at [tabzoola.com/configure/paper](https://tabzoola.com/configure/paper) with a free PDF proof first.
 
+Printed versions of the sets in this repository, with your own titles: exhibit tabs at <https://tabzoola.com/tabs/legal-exhibit-tabs>, estate planning sets at <https://tabzoola.com/tabs/estate-planning-binder-tabs>, hanging (bottom) tabs at <https://tabzoola.com/tabs/bottom-tab-dividers>, and any other set at <https://tabzoola.com/tabs/custom-3-ring-binder-dividers>.
+
 More free tools from the same publisher: [tabzoola.com/templates](https://tabzoola.com/templates). Published prices as open data: [anselmoindex/custom-index-tab-prices](https://github.com/anselmoindex/custom-index-tab-prices).
 
 ## License
