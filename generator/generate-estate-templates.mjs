@@ -88,7 +88,7 @@ async function makeSet({ file, title, cut, labels, blurb }) {
       "NEED FINISHED TABS?",
       "This template is free. When you need the real thing — printed, clear Mylar on",
       `every tab, 3-hole punched, collated sets with your firm's own section names —`,
-      "we make them in Illinois and ship in about 5 business days from proof approval.",
+      "we make them in Illinois and usually ship about 3 business days from proof approval.",
       "Build your own list and see the price: tabzoola.com/estate-binder-builder",
       "",
       "tabzoola.com · (847) 397-1200 · Anselmo Die & Index, Schaumburg, IL — tabs since 1993",

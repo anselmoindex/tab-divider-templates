@@ -70,9 +70,9 @@ async function makeSet({ file, title, labels }) {
       "",
       "NEED FINISHED TABS?",
       "This template is free. When you need the real thing - printed, Mylar-reinforced,",
-      "3-hole punched, collated exhibit sets in any range up to 1-500+ - Tabzoola sells",
+      "3-hole punched, collated exhibit sets in any range up to 1-150 - Tabzoola sells",
       "them and its sister company, Anselmo Die & Index, makes them in Illinois;",
-      "they ship in about 5 business days from proof approval.",
+      "they usually ship about 3 business days from proof approval.",
       "",
       "tabzoola.com · (847) 397-1200 · Anselmo Die & Index, Schaumburg, IL — est. 1978",
     ];
